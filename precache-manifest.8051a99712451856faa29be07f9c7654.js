@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "32f40948b94c46e798c7",
+    "revision": "82aabeadc87cfcf99720",
     "url": "/Spot2-Challenge/static/css/main.6b77ab81.chunk.css"
   },
   {
-    "revision": "32f40948b94c46e798c7",
-    "url": "/Spot2-Challenge/static/js/main.9d9a481e.chunk.js"
+    "revision": "82aabeadc87cfcf99720",
+    "url": "/Spot2-Challenge/static/js/main.92dd2785.chunk.js"
   },
   {
     "revision": "0d313fc0c4ad53663482",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Spot2-Challenge/static/media/logo.37fb1504.png"
   },
   {
-    "revision": "253b809c88228b21798d63e02cb057c6",
+    "revision": "685b3cfbf5148d2e38c453417f76c2af",
     "url": "/Spot2-Challenge/index.html"
   }
 ];
